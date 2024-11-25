@@ -1,4 +1,4 @@
-package com.example.blogs.controllers;
+package com.example.blogs.Controllers;
 
 import com.example.blogs.Repositories.UserRepository;
 import com.example.blogs.entities.User;
