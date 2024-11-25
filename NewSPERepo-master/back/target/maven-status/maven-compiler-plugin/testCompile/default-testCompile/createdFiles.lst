@@ -1,0 +1,5 @@
+com\example\blogs\controllers\CategoryControllerIntegrationTest.class
+com\example\blogs\repositories\CategoryRepositoryTest.class
+com\example\blogs\controllers\CategoryControllerTest.class
+com\example\blogs\BlogsApplicationTests.class
+com\example\blogs\services\CategoryServiceTest.class
